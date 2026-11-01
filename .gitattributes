@@ -1,0 +1,15 @@
+# 统一行尾，避免 Windows / macOS 协作时整文件 diff
+*.py    text eol=lf
+*.md    text eol=lf
+*.txt   text eol=lf
+*.json  text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.bat   text eol=crlf
+*.cmd   text eol=crlf
+
+# 二进制
+*.docx  binary
+*.pdf   binary
+*.png   binary
+*.jpg   binary
