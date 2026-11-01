@@ -62,7 +62,7 @@ math_work/
 ### 方式 A：装成 Claude Code 技能（推荐）
 
 ```bash
-git clone https://github.com/<你的用户名>/math-work-skill.git
+git clone https://github.com/zht20070604/math-work-skill.git
 cp -r math-work-skill/math_work ~/.claude/skills/math_work
 ```
 
